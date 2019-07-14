@@ -1,4 +1,6 @@
 # Phoronix Test Suite 8.8.1
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fatomsymbol%2Fphoronix-test-suite.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fatomsymbol%2Fphoronix-test-suite?ref=badge_shield)
+
 https://www.phoronix-test-suite.com/
 
 The **Phoronix Test Suite** is the most comprehensive testing and benchmarking
@@ -90,3 +92,7 @@ Additional information is available from the Phoronix Test Suite website
 <https://www.phoronix-test-suite.com/documentation/>. A man page is also bundled
 with the phoronix-test-suite software.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fatomsymbol%2Fphoronix-test-suite.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fatomsymbol%2Fphoronix-test-suite?ref=badge_large)
